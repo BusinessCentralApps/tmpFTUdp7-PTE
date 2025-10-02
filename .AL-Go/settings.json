@@ -1,0 +1,7 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/7ca7504231b4a19e692f3d8eb8331e2be2a05f5e/.Modules/settings.schema.json",
+  "country": "us",
+  "appFolders": [],
+  "testFolders": [],
+  "bcptTestFolders": []
+}
